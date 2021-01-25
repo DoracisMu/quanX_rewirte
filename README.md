@@ -1,12 +1,12 @@
 # @yichahucha 京东比价 淘宝比价(淘宝好使，历史价格在<保障>里面)
 ```
 git地址： https://github.com/yichahucha/surge/tree/master
-脚本订阅1（我的repo）：https://raw.githubusercontent.com/MuuuJian/quanX_rewirte/master/JdTb.conf
+脚本订阅1（我的repo）：https://raw.githubusercontent.com/DoracisMu/quanX_rewirte/master/JdTb.conf
 ```
 
 # 忘了出处 去b站、知乎、微博、微信广告
 ```
-脚本订阅2（我的repo）：https://raw.githubusercontent.com/MuuuJian/quanX_rewirte/master/Js.conf
+脚本订阅2（我的repo）：https://raw.githubusercontent.com/DoracisMu/quanX_rewirte/master/Js.conf
 ```
 
 # @lhie1 规则
