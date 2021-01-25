@@ -1,10 +1,11 @@
-# 去广告
-```
-https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf
-```
 # 京东比价 淘宝比价
 ```
-111
+https://github.com/MuuuJian/quanX_rewirte/blob/master/Jd&Tb.conf
+```
+
+# 去b站、知乎、微博、微信
+```
+https://github.com/MuuuJian/quanX_rewirte/blob/master/Js.conf
 ```
 
 # lhie1规则
