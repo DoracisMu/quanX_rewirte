@@ -34,5 +34,6 @@ git地址：https://github.com/NobyDa/Script/tree/master
 # 我有单个规则，不知道咋用？
 ```
 等晚上吧，回家写
+没想到过年有点懒了，看到有同学star了还有点不好意思，我抓紧时间出个教程
 ```
 
